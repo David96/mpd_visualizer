@@ -4,6 +4,7 @@ mpd_visualizer
 Visualizer for MPD
 
 Currently WIP
+
 It assumes that MPD is configured to output music data to /tmp/mpd.fifo at 44100:16:1.
 This can be archieved by adding this to your mpd.conf:
 ```
